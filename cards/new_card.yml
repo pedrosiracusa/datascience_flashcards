@@ -1,0 +1,15 @@
+--- # A Flashcard
+
+id: # The id (best if unique)
+
+topic: # The topic
+
+bullets:  
+  - item1
+  - item2
+  - item3
+  - item4
+
+moreinfo: # More info, if needed
+
+keywords: [kw1, kw2, kw3] 
